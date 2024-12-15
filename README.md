@@ -40,8 +40,8 @@ A production-ready Retrieval-Augmented Generation (RAG) system combining:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Lokesh-Chimakurthi/Reliable_RAG.git
+cd Reliable_RAG
 ```
 
 2. Install dependencies:
