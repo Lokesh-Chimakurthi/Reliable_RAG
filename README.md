@@ -113,12 +113,6 @@ python app.py
 2. Second-stage Reranking:
    - ColBERT reranking via Jina.ai
 
-## Limitations
-
-- Maximum 5 files can be processed at once
-- Supported file formats: PDF, TXT, DOCX, MD
-- Requires active internet connection for API services
-
 ## Environment Variables
 
 ```bash
